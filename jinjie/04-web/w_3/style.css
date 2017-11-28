@@ -1,0 +1,14 @@
+.box{
+    width:200px;
+    height:200px;
+    border:1px solid #ccc;
+}
+.red{
+    background-color:red;
+}
+.yellow{
+    background-color:yellow;
+}
+.green{
+    background-color:green;
+}
